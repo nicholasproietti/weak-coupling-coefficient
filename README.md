@@ -4,4 +4,4 @@ This respostory contains two codes which calculate the weak coupling coefficient
 
 `propagation_diagram` - Illustrates the propagation diagram of an RGB model and calculates the weak coupling coefficient *q* for several mixed-modes using the asymptotic expression defined in [Shibahashi (1979)](https://ui.adsabs.harvard.edu/abs/1979PASJ...31...87S/abstract).
 
-`coupling_coeff_analysis` - For a given RGB model, calculates the weak coupling coefficient `q` by fitting the asymptotic solutions of Eq. 9 of [Mosser et al. (2012a)](https://ui.adsabs.harvard.edu/abs/2012A%26A...540A.143M/abstract) to the GYRE-computed frequencies. 
+`coupling_coeff_analysis` - For a given RGB model, calculates the weak coupling coefficient *q* by fitting the asymptotic solutions of Eq. 9 of [Mosser et al. (2012a)](https://ui.adsabs.harvard.edu/abs/2012A%26A...540A.143M/abstract) to the GYRE-computed frequencies. 
