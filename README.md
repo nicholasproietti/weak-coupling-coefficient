@@ -1,4 +1,4 @@
-# weak_coupling_coefficient
+# weak-coupling-coefficient
 
 This respostory contains two codes which calculate the weak coupling coefficient *q* for mixed-mode oscillations within red giant branch models computed by the [MESA stellar evolution code](https://docs.mesastar.org/en/24.08.1/) and [GYRE stellar oscillation code](https://gyre.readthedocs.io/en/stable/). These codes are parts of my project as a summer research student at the Heidelberg Institute for Theoretical Studies (HITS gGmbH) in Summer 2024.
 
